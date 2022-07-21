@@ -1,2 +1,2 @@
-# portifolio-pretalab-flavia-soares
-Primeira landing page do bootcamp Preta_Lab.
+# Portfólio-Pretalab
+Landing page do bootcamp Preta_Lab.
